@@ -4,6 +4,6 @@ for c in range(1, n + 1):
         print('\033[34m', end = '')
     else:
         print('\033[m', end = '')
-        print(f'{c}', end='')
+        print(f'{c}', end='') 
 
         

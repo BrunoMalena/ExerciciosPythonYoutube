@@ -9,5 +9,5 @@ for c in range(1, 8):
         tmaior += 1
     else:
         tmenor += 1
-print(f'Ao todo temos {tmaior}pessoas maiores de idade')
-print(f'Ao todo temos {tmenor}pessoas menores de idade')
+print(f'Ao todo temos {tmaior} pessoas maiores de idade')
+print(f'Ao todo temos {tmenor} pessoas menores de idade')
