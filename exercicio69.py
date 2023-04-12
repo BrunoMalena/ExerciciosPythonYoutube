@@ -17,4 +17,4 @@ while True:
         break
 print(f'Total de pessoas com mais de 18 anos é de {tot18}')
 print(f'Total de homens cadastrados  é {totH}')
-print(f'Total de mulheres com menos de 20 anos é{totM20}')
+print(f'Total de mulheres com menos de 20 anos é {totM20}')
